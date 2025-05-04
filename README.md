@@ -134,4 +134,4 @@ Regular maintenance tasks:
 - Update user permissions as needed
 - Review logs periodically
 
-For support or questions, contact the bot administrator. 
+For support or questions, contact @yuumithecat. 
